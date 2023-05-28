@@ -28,6 +28,8 @@ Goal: Action RPG with a variety of classic Disney characters out of their origin
 Goal: Action RPG with a slight steampunk, cartoon aesthetic
 - Torchlight
 - Torchtlight 2
+### Racing (Asphalt)
+#### Asphalt
 ### Squad FPS (Fortnite)
 #### Fortnite
 ### Trading Card Game (Hearthstone, MTG Arena)
